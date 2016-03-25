@@ -2,4 +2,13 @@ BLANK LINE
 
 New Line added from Notepad
 
-I hope this works
+<<<<<<< HEAD
+I ho
+
+Modified file
+pe this works
+=======
+
+This is bound to cause trouble!
+
+>>>>>>> very-bad
